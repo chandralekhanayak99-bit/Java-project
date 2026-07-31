@@ -11,7 +11,7 @@
 public class HelloWorld {
 
     public void sayHello() {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!. Welcome to DevOps class");
     }
 
     public void notCovered() {
